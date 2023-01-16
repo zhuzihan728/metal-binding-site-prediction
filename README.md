@@ -12,3 +12,8 @@
     The annotation is in the format: Accession\<TAB\>Evidence\<TAB\>ChEBI-ID\<TAB\>Position. 
 
     The prediction is in the format: Protein-id\<TAB\>ChEBI-ID\<TAB\>Position\<TAB\>Score
+
+
+## Dataset
+ - [Trainval set](https://drive.google.com/file/d/1HdLHwwWDRCcNy5am-uFyDaItS-uGtLPd/view?usp=share_link)
+ - [Test set](https://drive.google.com/file/d/1-0VXSXuu4oyAfAGEv7dHpA6jHD4n3iMn/view?usp=share_link)
