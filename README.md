@@ -15,5 +15,7 @@
 
 
 ## Dataset
- - [Trainval set](https://drive.google.com/file/d/1HdLHwwWDRCcNy5am-uFyDaItS-uGtLPd/view?usp=share_link)
- - [Test set](https://drive.google.com/file/d/1-0VXSXuu4oyAfAGEv7dHpA6jHD4n3iMn/view?usp=share_link)
+ - [Full trainval set](https://drive.google.com/file/d/1GyX6BiiaTssbDGFTDj3EhCqQKK_dm-sf/view?usp=share_link)
+ - [Full test set](https://drive.google.com/file/d/1-0w4DzUeXkfREk3XPGsfano6HbSgLqJj/view?usp=share_link)
+ - [Smaller trainval set](https://drive.google.com/file/d/1HdLHwwWDRCcNy5am-uFyDaItS-uGtLPd/view?usp=share_link)
+ - [Smaller test set](https://drive.google.com/file/d/1-0VXSXuu4oyAfAGEv7dHpA6jHD4n3iMn/view?usp=share_link)
